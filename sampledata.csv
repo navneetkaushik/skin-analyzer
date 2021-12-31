@@ -1,0 +1,3 @@
+status,sku_code,face_attributes,per_cover,gender,ageing,stocks,units,brand,sun_exposure,sleeping_hour,drinking_water,wrinkles,spots,dark_circles,texture,pigmentation
+2,123456,wrinkle,21,Male,13,21,kg,asd,2,11:00,11,0-60,none,0-60,none,0-60
+3,654321,wrinkle,22,Male,14,22,kg,asd,3,12:00,12,none,0-60,none,0-60,none
