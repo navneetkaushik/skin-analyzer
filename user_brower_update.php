@@ -2,10 +2,10 @@
 
 
 <?php
-define("DBHOST", "boddessadmin.cu1nmpejvnbg.ap-south-1.rds.amazonaws.com");
-define("DBUSER", "productadmin");
-define("DBPASS", 'Que$tr#t&i!');
-define("DBNAME", "rugs");
+define("DBHOST", "localhost");
+define("DBUSER", "username");
+define("DBPASS", 'password');
+define("DBNAME", "database");
 
 try {
 	if(isset($_POST['customer_id']) && isset($_POST['browser_session_id']))
