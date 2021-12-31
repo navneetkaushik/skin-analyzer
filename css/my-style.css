@@ -1,0 +1,327 @@
+body{
+	margin:0px;
+	padding:0px
+}
+
+.onelayer {
+    width: 100%;
+	display:inline-block;
+	position:relative;
+}
+
+
+.onelayer{
+	width:100%;
+	float:left;
+	position:relative;
+}
+
+.onelayerdown {
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 2;
+    padding: 20px 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.box {
+    position: relative;
+    float: left;
+    box-sizing: border-box;
+    overflow: hidden;
+    width: 100%;
+}
+
+.onelayerup img {
+    width: 100%;
+    position: relative;
+}
+
+/*.onelayerdown a {
+    border: 3px solid #fff;
+color:#fff;
+font-family: 'Anton', sans-serif;
+font-size: 50px;
+padding: 78px;
+border-radius: 170px;
+width: 335px;
+height: 321px;
+display: inline-block;
+text-transform: uppercase;
+background:
+    rgba(0, 0, 0, 0.3);
+    text-align: center;
+}*/
+
+.onelayerdown a {
+display: inline-block;
+
+}
+
+
+.onelayerdown a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+<!--skin_analysis_1-->
+
+.skin_analysis_1main  {
+    width: 100%;
+	float:left;
+	position:relative;
+}
+
+
+
+.skin_analysis_1main img {
+    width: 100%;
+}
+
+
+
+.skin_analysis_top{
+	position:relative;
+	width:100%;
+	
+}
+
+.crossbg {
+   position: relative;
+}
+
+.leftmark  {
+    position: absolute;
+    left: 20px;
+    top: 30px;
+}
+
+.rightmark  {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+}
+
+
+
+
+.bottmclick {
+ background:#edc4bc;
+display: inline-block;
+width: 100%;padding: 0 15px;
+}
+
+.bottmclick a {
+    width: 33%;
+    float: left;
+}
+
+
+.bottmclick a {
+    width: 33%;
+    float: left;
+}
+.clickbtn {
+    margin: -90px 0 0 0px;
+    text-align: center;
+}
+
+.bottmclick .frontcam {
+    font-size: 19px;
+    text-transform: uppercase;
+    color: 
+    #000;
+    margin: 30px 0;font-family: 'Roboto', sans-serif;
+}
+
+
+.bottmclick .backcam {
+    font-size: 19px;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 30px 0;
+    text-align: right;font-family: 'Roboto', sans-serif;
+
+}
+
+
+.bottmclick.recommended {
+    text-align: center;
+    width: 100%;
+}
+
+.bottmclick.recommended {
+    text-align: center;
+    width: 100%;padding: 0;
+}
+
+
+.bottmclick.recommended a {
+    width: 100%;
+    color: 
+    #000;
+    display: block;
+    text-transform: uppercase;
+    padding: 20px 0;
+    font-size: 28px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.four-round ul {
+
+    padding: 0;
+    margin: 0;
+    width: 100%;
+ 
+
+}
+
+.four-round {
+   width: 100%;
+float: left;
+position: absolute;
+bottom: 110px;
+}
+
+.four-round ul li {
+
+
+}
+
+.referesh img {
+    width: auto;
+}
+
+.referesh {
+    text-align: right;
+    margin: 30px 20px;
+}
+
+.four-round ul li {
+    background: #fff;
+    border-radius: 40px;
+    text-align: center;list-style: none;
+	border: 2px solid #000;
+
+}
+
+.greenbtn {
+    width: 15%;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+
+.topround {
+position: relative;
+    background: url(../img/color-bg.jpg) no-repeat;
+        background-size: auto;
+    width: 100%;
+    background-size: cover;
+    padding: 45px 0;font-size: 44px;
+font-weight: 600;
+color:#000;font-family: 'Anton', sans-serif;border-radius: 40px 40px 0 0;
+border-bottom: 2px solid #000
+
+
+}
+
+.bottomround {
+    padding: 25px 0;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;color: #000;
+
+}
+
+
+.topround.effectbg {
+    padding: 0;border-bottom: 0;
+   
+}
+
+
+.topround.effectbg img {
+   
+    border-radius: 37px 37px 0 0;
+}
+
+.four-round.efectfour {
+    bottom: 30px;
+}
+
+
+
+
+.modal-header.popheader button {
+    position: absolute;
+    z-index: 9999;
+    right: -30px;
+    top: -30px;
+    opacity: 1;
+}
+.modal-header.popheader {
+    padding: 0;
+    border: 0px;
+    position: relative;
+}
+
+.modalbodyinn img {
+    width: 100%;
+    border-radius: 30px;
+}
+
+.popbg {
+    padding: 0;
+    width: 100%;
+    float: left;margin: 30px 0;
+}
+
+.popbg li {
+    float: left;
+    list-style: none;
+    width: 25%;
+}
+
+.uploadbg  {
+
+    border: 1px solid #000;
+
+display: inline-block;
+
+width: 100%;
+
+margin: 0px 0 0 0;
+
+color: #000;
+    text-align: center;
+    padding: 16px;
+    font-size: 22px;
+    text-transform: uppercase;
+
+}
+
+
+.modal-content.popcontent {
+    border-radius: 30px;
+}
+
+.modal-footer.popfooter {
+    background: #edc4bc;
+    border-radius: 0 0 30px 30px;
+    text-align: center;
+}
+
+
+.modal-footer.popfooter button {
+
+    background:  transparent;
+    border: 0pc;
+    font-size: 26px;
+    text-transform: uppercase;
+
+}

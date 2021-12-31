@@ -1,0 +1,100 @@
+@media only screen and (max-width:767px) and (min-width:320px) {
+	.onelayerdown img {
+    width: 50%;
+}
+.clickbtn {
+  margin: -20px 0px;
+width: 20% !important
+}
+
+.clickbtn img {
+    width: 100%;
+}
+
+.bottmclick a {
+    width: 40%;
+    float: left;
+}
+
+.bottmclick .frontcam {
+    font-size: 15px;
+    margin: 42px 0;
+}
+
+.bottmclick .backcam {
+    font-size: 15px;
+    margin: 42px 0;
+    
+}
+.crossbg img {
+    width: 50%;
+}
+
+.leftmark img {
+    width: 35%;
+}
+.rightmark img {
+    width: 35%;
+}
+
+.rightmark {
+  right: 20px;
+text-align: right;
+}
+
+.referesh img {
+    width: 7%;
+}
+
+.bottomround {
+padding: 23px 1px;
+    font-size: 13px;
+  
+}
+
+.modal-header.popheader button {
+    right: -20px;
+    top: 0px;
+
+}
+
+.modal-header.popheader button img {
+	width:60%;
+}
+
+.topround {
+    padding: 18px 0;
+    font-size: 20px;
+}
+
+.bottmclick.recommended a {
+    padding: 20px 0;
+    font-size: 18px;
+
+}
+
+.onebox .container {
+    padding: 0;
+}
+
+.onebox .row {
+    margin: 0;
+}
+
+.onebox .col-md-12 {
+
+    padding: 0;
+
+}
+
+
+
+
+}
+
+
+
+
+@media only screen and (max-width:530px) and (min-width:320px) {
+
+}
