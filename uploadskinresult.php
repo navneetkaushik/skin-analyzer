@@ -1,8 +1,8 @@
 <?php 
 define("DBHOST", "localhost");
-define("DBUSER", "root");
-define("DBPASS", 'secure@123');
-define("DBNAME", "mamaearth");
+define("DBUSER", "username");
+define("DBPASS", 'password');
+define("DBNAME", "database");
 
 	try
 	{
