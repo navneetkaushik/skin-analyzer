@@ -11,9 +11,9 @@
 <?php include_once('config.php');?>
 <?php
 define("DBHOST", "localhost");
-define("DBUSER", "root");
-define("DBPASS", 'secure@123');
-define("DBNAME", "mamaearth");
+define("DBUSER", "username");
+define("DBPASS", 'passwoed');
+define("DBNAME", "dbname");
 
 try {
 	if(isset($_POST['phone']) && isset($_POST['email']))
